@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<!-- <link href="assets/stylesheets/style.css" rel="stylesheet"> -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="utf-8"/>
+		<style>
+			.responsive {
+			  max-width: 100%;
+			  height: auto;
+			}
+        </style>
+        <script src="Roman_Numeral_Converter.js" type="text/javascript" charset="utf-8"></script>
+    </head>
+    <body>
+      <div class="conversion-section">
+        <h3>Enter a decimal number below.</h3>
+        <form>
+            <input type="text" id="decimal-input" value="3">
+            <input value="Submit" onclick="decimalToNumeral()" type="button" id="submit-button" class="sub-button">
+        </form>
+        <p id="numeral">Numeral</p>
+      </div>
+    </body>
