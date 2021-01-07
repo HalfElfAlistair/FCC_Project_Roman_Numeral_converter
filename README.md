@@ -84,11 +84,14 @@ Github: [HalfElfAlistair](https://github.com/HalfElfAlistair)
 ### [FreeCodeCamp](https://www.freecodecamp.org/)
 The educational and practical opportunity to develop my coding skills.
 
-### [FreeCodeCamp](https://www.freecodecamp.org/)
-The educational and practical opportunity to develop my coding skills.
-
 ### [The Modern JavaScript Tutorial](https://javascript.info/)
 I've found myself using multiple learning resources for JavaScript and this has been a very useful one.
+
+### [w3schools](https://www.w3schools.com/)
+A really useful source for learning JavaScript.
+
+### [Useful Programmer](https://www.youtube.com/channel/UCAocVBB14ixYUfdhKaSrvNQ)
+A brilliant resource to assist with learning to code.
 
 ### [WebAIM.org](https://webaim.org/)
 Their colour contrast checker is a go to for me every time so I can ensure my work is readable.
