@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 		<!-- <link href="assets/stylesheets/style.css" rel="stylesheet"> -->
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta charset="utf-8"/>
 		<style>
 			.responsive {
@@ -12,9 +13,10 @@
         </style>
         <script src="Roman_Numeral_Converter.js" type="text/javascript" charset="utf-8"></script>
     </head>
-    <body>
-      <div class="conversion-section">
-        <h3>Enter a decimal number below.</h3>
+    <body class="bg-success">
+      <div class="m-3 p-3 bg-light text-dark">
+        <h1>Roman Numeral Converter</h1>
+        <p>This project was completed as part of the JavaScript Algorithms and Data Structures course, found at <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener" class="text-light"><b>freeCodeCamp</b></a><br>Enter a decimal number in the field below and press input to see it converted to the respective roman numeral.</p>
         <form>
             <input type="text" id="decimal-input" value="3">
             <input value="Submit" onclick="decimalToNumeral()" type="button" id="submit-button" class="sub-button">
@@ -22,3 +24,4 @@
         <p id="numeral">Numeral</p>
       </div>
     </body>
+</html>
