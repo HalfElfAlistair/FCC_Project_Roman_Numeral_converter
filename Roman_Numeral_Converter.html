@@ -14,14 +14,16 @@
         <script src="Roman_Numeral_Converter.js" type="text/javascript" charset="utf-8"></script>
     </head>
     <body class="bg-success">
-      <div class="m-3 p-3 bg-light text-dark">
+      <div class="m-3 p-3 bg-light text-dark rounded">
         <h1>Roman Numeral Converter</h1>
         <p>This project was completed as part of the JavaScript Algorithms and Data Structures course, found at <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener" class="text-light"><b>freeCodeCamp</b></a><br>Enter a decimal number in the field below and press input to see it converted to the respective roman numeral.</p>
         <form>
-            <input type="text" id="decimal-input" value="3">
-            <input value="Submit" onclick="decimalToNumeral()" type="button" id="submit-button" class="sub-button">
+            <input type="text" id="decimal-input" value="3" class="w-100 mb-3 rounded">
+            <input class="btn btn-success mb-3 mx-auto w-50 d-block" type="button" value="Input" onclick="decimalToNumeral()" id="submit-button">
         </form>
-        <p id="numeral">Numeral</p>
+        <div class="border border-success p-3 text-center rounded">
+          <p id="numeral" class="d-inline align-middle font-weight-bold"></p>
+        </div>
       </div>
     </body>
 </html>
