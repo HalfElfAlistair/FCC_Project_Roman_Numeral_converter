@@ -68,6 +68,8 @@ Once you've downloaded and unzipped the repo file, simply open up the index.html
 
 - FCC Console
 
+- [Bootstrap](https://getbootstrap.com/)
+
 I developed the JS code in on FCC for the challenge, then used VSC to amend it and add it to HTML.
 
 ## Author
@@ -102,8 +104,7 @@ I use their 'create a palette' tool to help me select a colour scheme.
 
 ## Author Notes
 
-I'll be honest, my my inital JS code for this task is horrendous. It works, but it's long and I repeat myself a lot. I'm also not convinced it's particularly easy to understand either, I can certainly improve that too. I'll definitely be taking some time to refactor the code in the near future.
+My initial effort at this code worked but was very long winded and not great to read. I've since refactored it, following a different appraoch and it's much better now in my opinion.
 
-On the plus side, producing code like this now means it should be easy to display my progression as I complete other challenges and also go back to refactor this code. I'm excited to get practicing refining my code as it's not something I've done much of yet.
+It was great to be able to go back to a task like this and go again with a greater understanding of JavaScript. I feel I still have a ways to go with my learning (there's always improvement you can make) but I know I'm progressing an that feels great!
 
-It's also been another good practice of developing algorithms to solve problems. So far this has been the area I've struggled with the most I think, which is bad as it's really important, so practice and progress will be key. I did solve the problem though, it may have been in a rather drawn out way but it still worked, I'll only keep getting better!
