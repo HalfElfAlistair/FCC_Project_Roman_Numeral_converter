@@ -107,3 +107,4 @@ I use their 'create a palette' tool to help me select a colour scheme.
 My initial effort at this code worked but was very long winded and not great to read. I've since refactored it, following a different appraoch and it's much better now in my opinion.
 
 It was great to be able to go back to a task like this and go again with a greater understanding of JavaScript. I feel I still have a ways to go with my learning (there's always improvement you can make) but I know I'm progressing an that feels great!
+
